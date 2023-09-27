@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
-    background: rgb(0, 68, 255);
+    background: url('./background.png');
     text-align: center;
 }
